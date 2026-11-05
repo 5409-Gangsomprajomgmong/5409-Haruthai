@@ -1,2 +1,1 @@
-5409-Haruthai
-รหัสลับ Tid 0 Ai
+รหัสลับ:Tid 0 Ai
